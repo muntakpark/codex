@@ -16,3 +16,5 @@ else:
 rsp = [0, '가위', '바위', '보']
 print(f'User: {rsp[user_com]}, Com: {rsp[com_com]}')
 print(f'Result is {result}')
+
+print('adjusted')
